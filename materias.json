@@ -1,0 +1,1044 @@
+[
+  {
+    "year": 1,
+    "code": "I0001",
+    "name": "Taller de Diseño Industrial 1",
+    "period": "Anual",
+    "course": [],
+    "approval": []
+  },
+  {
+    "year": 1,
+    "code": "I0002",
+    "name": "Tecnología de Diseño Industrial 1",
+    "period": "Anual",
+    "course": [],
+    "approval": []
+  },
+  {
+    "year": 1,
+    "code": "I0003",
+    "name": "Fundamentos de la forma",
+    "period": "Anual",
+    "course": [],
+    "approval": []
+  },
+  {
+    "year": 1,
+    "code": "I0005",
+    "name": "Dibujo 1",
+    "period": "Anual",
+    "course": [],
+    "approval": []
+  },
+  {
+    "year": 1,
+    "code": "I0025",
+    "name": "Ergonomía y Diseño Centrado en las Personas",
+    "period": "Anual",
+    "course": [],
+    "approval": []
+  },
+  {
+    "year": 1,
+    "code": "H0053",
+    "name": "Panorama Histórico Social del Diseño",
+    "period": "Anual",
+    "course": [],
+    "approval": []
+  },
+  {
+    "year": 2,
+    "code": "I0006",
+    "name": "Taller de Diseño Industrial 2",
+    "period": "Anual",
+    "course": [
+      [
+        "I0002",
+        "r"
+      ],
+      [
+        "I0003",
+        "r"
+      ],
+      [
+        "I0005",
+        "r"
+      ],
+      [
+        "I0001",
+        "a"
+      ]
+    ],
+    "approval": [
+      [
+        "I0001",
+        "a"
+      ],
+      [
+        "I0002",
+        "r"
+      ],
+      [
+        "I0003",
+        "r"
+      ],
+      [
+        "I0005",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 2,
+    "code": "I0007",
+    "name": "Tecnología de Diseño Industrial 2",
+    "period": "Anual",
+    "course": [
+      [
+        "I0002",
+        "r"
+      ],
+      [
+        "I0005",
+        "r"
+      ]
+    ],
+    "approval": [
+      [
+        "I0002",
+        "r"
+      ],
+      [
+        "I0005",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 2,
+    "code": "I0008",
+    "name": "Producción de la forma",
+    "period": "Anual",
+    "course": [
+      [
+        "I0003",
+        "r"
+      ],
+      [
+        "I0005",
+        "r"
+      ]
+    ],
+    "approval": [
+      [
+        "I0003",
+        "r"
+      ],
+      [
+        "I0005",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 2,
+    "code": "I0010",
+    "name": "Dibujo 2",
+    "period": "Anual",
+    "course": [
+      [
+        "I0003",
+        "r"
+      ],
+      [
+        "I0005",
+        "r"
+      ]
+    ],
+    "approval": [
+      [
+        "I0003",
+        "r"
+      ],
+      [
+        "I0005",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 2,
+    "code": "I0026",
+    "name": "Métodos de Diseño 1",
+    "period": "Cuatrimestral",
+    "course": [
+      [
+        "H0053",
+        "r"
+      ],
+      [
+        "I0001",
+        "a"
+      ]
+    ],
+    "approval": [
+      [
+        "H0053",
+        "r"
+      ],
+      [
+        "I0001",
+        "a"
+      ]
+    ]
+  },
+  {
+    "year": 2,
+    "code": "H0105",
+    "name": "Historia, política y culturas contemporáneas",
+    "period": "Anual",
+    "course": [
+      [
+        "H0053",
+        "r"
+      ]
+    ],
+    "approval": [
+      [
+        "H0053",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 2,
+    "code": "I0028",
+    "name": "Matemática 1",
+    "period": "Cuatrimestral",
+    "course": [],
+    "approval": []
+  },
+  {
+    "year": 3,
+    "code": "I0011",
+    "name": "Taller de Diseño Industrial 3",
+    "period": "Anual",
+    "course": [
+      [
+        "I0006",
+        "a"
+      ],
+      [
+        "I0007",
+        "r"
+      ],
+      [
+        "I0008",
+        "r"
+      ],
+      [
+        "I0010",
+        "r"
+      ],
+      [
+        "I0025",
+        "a"
+      ],
+      [
+        "I0026",
+        "r"
+      ]
+    ],
+    "approval": [
+      [
+        "I0002",
+        "a"
+      ],
+      [
+        "I0003",
+        "a"
+      ],
+      [
+        "I0005",
+        "a"
+      ],
+      [
+        "I0006",
+        "a"
+      ],
+      [
+        "I0007",
+        "r"
+      ],
+      [
+        "I0008",
+        "r"
+      ],
+      [
+        "I0010",
+        "r"
+      ],
+      [
+        "I0025",
+        "a"
+      ],
+      [
+        "I0026",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 3,
+    "code": "I0012",
+    "name": "Tecnología de Diseño Industrial 3",
+    "period": "Anual",
+    "course": [
+      [
+        "I0007",
+        "r"
+      ],
+      [
+        "I0028",
+        "r"
+      ],
+      [
+        "I0001",
+        "a"
+      ],
+      [
+        "I0002",
+        "a"
+      ],
+      [
+        "I0005",
+        "a"
+      ]
+    ],
+    "approval": [
+      [
+        "I0001",
+        "a"
+      ],
+      [
+        "I0002",
+        "a"
+      ],
+      [
+        "I0005",
+        "a"
+      ],
+      [
+        "I0007",
+        "r"
+      ],
+      [
+        "I0028",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 3,
+    "code": "I0013",
+    "name": "Sistemas de la forma",
+    "period": "Anual",
+    "course": [
+      [
+        "I0003",
+        "a"
+      ],
+      [
+        "I0008",
+        "r"
+      ],
+      [
+        "I0010",
+        "r"
+      ]
+    ],
+    "approval": [
+      [
+        "I0003",
+        "a"
+      ],
+      [
+        "I0005",
+        "a"
+      ],
+      [
+        "I0008",
+        "r"
+      ],
+      [
+        "I0010",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 3,
+    "code": "I0027",
+    "name": "Métodos de Diseño 2",
+    "period": "Cuatrimestral",
+    "course": [
+      [
+        "I0002",
+        "a"
+      ],
+      [
+        "I0003",
+        "a"
+      ],
+      [
+        "I0005",
+        "a"
+      ],
+      [
+        "I0006",
+        "a"
+      ],
+      [
+        "I0026",
+        "r"
+      ]
+    ],
+    "approval": [
+      [
+        "I0002",
+        "a"
+      ],
+      [
+        "I0003",
+        "a"
+      ],
+      [
+        "I0005",
+        "a"
+      ],
+      [
+        "I0006",
+        "a"
+      ],
+      [
+        "I0026",
+        "r"
+      ],
+      [
+        "H0053",
+        "a"
+      ]
+    ]
+  },
+  {
+    "year": 3,
+    "code": "I0014",
+    "name": "Seminario Optativo 1",
+    "period": "Cuatrimestral",
+    "course": [
+      [
+        "I0002",
+        "a"
+      ],
+      [
+        "I0005",
+        "a"
+      ],
+      [
+        "I0006",
+        "a"
+      ],
+      [
+        "I0010",
+        "r"
+      ]
+    ],
+    "approval": [
+      [
+        "I0002",
+        "a"
+      ],
+      [
+        "I0005",
+        "a"
+      ],
+      [
+        "I0006",
+        "a"
+      ],
+      [
+        "I0010",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 3,
+    "code": "I0035",
+    "name": "Diseño y Cultura",
+    "period": "Anual",
+    "course": [
+      [
+        "H0105",
+        "r"
+      ],
+      [
+        "H0053",
+        "a"
+      ]
+    ],
+    "approval": [
+      [
+        "H0105",
+        "r"
+      ],
+      [
+        "H0053",
+        "a"
+      ],
+      [
+        "I0001",
+        "a"
+      ],
+      [
+        "I0003",
+        "a"
+      ]
+    ]
+  },
+  {
+    "year": 3,
+    "code": "I0009",
+    "name": "Física 1",
+    "period": "Cuatrimestral",
+    "course": [
+      [
+        "I0028",
+        "r"
+      ],
+      [
+        "I0007",
+        "r"
+      ],
+      [
+        "I0002",
+        "a"
+      ]
+    ],
+    "approval": [
+      [
+        "I0002",
+        "a"
+      ],
+      [
+        "I0007",
+        "r"
+      ],
+      [
+        "I0028",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 3,
+    "code": "I0029",
+    "name": "Matemática 2",
+    "period": "Cuatrimestral",
+    "course": [
+      [
+        "I0028",
+        "r"
+      ]
+    ],
+    "approval": [
+      [
+        "I0028",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 4,
+    "code": "I0017",
+    "name": "Taller de Diseño Industrial 4",
+    "period": "Anual",
+    "course": [
+      [
+        "I0007",
+        "a"
+      ],
+      [
+        "I0008",
+        "a"
+      ],
+      [
+        "I0011",
+        "a"
+      ],
+      [
+        "I0012",
+        "r"
+      ],
+      [
+        "I0013",
+        "r"
+      ],
+      [
+        "I0027",
+        "r"
+      ],
+      [
+        "H0105",
+        "a"
+      ]
+    ],
+    "approval": [
+      [
+        "H0105",
+        "a"
+      ],
+      [
+        "I0007",
+        "a"
+      ],
+      [
+        "I0008",
+        "a"
+      ],
+      [
+        "I0010",
+        "a"
+      ],
+      [
+        "I0011",
+        "a"
+      ],
+      [
+        "I0012",
+        "r"
+      ],
+      [
+        "I0027",
+        "r"
+      ],
+      [
+        "I0013",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 4,
+    "code": "I0018",
+    "name": "Tecnología de Diseño Industrial 4",
+    "period": "Anual",
+    "course": [
+      [
+        "I0007",
+        "a"
+      ],
+      [
+        "I0009",
+        "r"
+      ],
+      [
+        "I0010",
+        "a"
+      ],
+      [
+        "I0028",
+        "a"
+      ],
+      [
+        "I0012",
+        "r"
+      ],
+      [
+        "I0006",
+        "a"
+      ]
+    ],
+    "approval": [
+      [
+        "I0006",
+        "a"
+      ],
+      [
+        "I0007",
+        "a"
+      ],
+      [
+        "I0009",
+        "r"
+      ],
+      [
+        "I0010",
+        "a"
+      ],
+      [
+        "I0028",
+        "a"
+      ],
+      [
+        "I0012",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 4,
+    "code": "I0031",
+    "name": "Economía, política e industria",
+    "period": "Anual",
+    "course": [
+      [
+        "I0035",
+        "r"
+      ],
+      [
+        "H0105",
+        "a"
+      ]
+    ],
+    "approval": [
+      [
+        "I0035",
+        "r"
+      ],
+      [
+        "H0105",
+        "a"
+      ]
+    ]
+  },
+  {
+    "year": 4,
+    "code": "I0019",
+    "name": "Historia del Diseño Industrial",
+    "period": "Anual",
+    "course": [
+      [
+        "I0035",
+        "r"
+      ],
+      [
+        "I0027",
+        "r"
+      ],
+      [
+        "H0105",
+        "a"
+      ],
+      [
+        "I0025",
+        "a"
+      ],
+      [
+        "H0053",
+        "a"
+      ]
+    ],
+    "approval": [
+      [
+        "I0035",
+        "r"
+      ],
+      [
+        "H0105",
+        "r"
+      ],
+      [
+        "I0027",
+        "a"
+      ],
+      [
+        "H0053",
+        "a"
+      ],
+      [
+        "I0025",
+        "a"
+      ]
+    ]
+  },
+  {
+    "year": 4,
+    "code": "I0020",
+    "name": "Seminario Optativo 2",
+    "period": "Cuatrimestral",
+    "course": [
+      [
+        "I0005",
+        "a"
+      ],
+      [
+        "I0010",
+        "r"
+      ],
+      [
+        "I0006",
+        "a"
+      ],
+      [
+        "I0002",
+        "a"
+      ]
+    ],
+    "approval": [
+      [
+        "I0005",
+        "a"
+      ],
+      [
+        "I0010",
+        "r"
+      ],
+      [
+        "I0006",
+        "a"
+      ],
+      [
+        "I0002",
+        "a"
+      ]
+    ]
+  },
+  {
+    "year": 4,
+    "code": "I0016",
+    "name": "Física 2",
+    "period": "Cuatrimestral",
+    "course": [
+      [
+        "I0007",
+        "a"
+      ],
+      [
+        "I0009",
+        "r"
+      ],
+      [
+        "I0028",
+        "a"
+      ],
+      [
+        "I0029",
+        "r"
+      ]
+    ],
+    "approval": [
+      [
+        "I0007",
+        "a"
+      ],
+      [
+        "I0009",
+        "r"
+      ],
+      [
+        "I0028",
+        "a"
+      ],
+      [
+        "I0029",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 5,
+    "code": "I0021",
+    "name": "Taller de Diseño Industrial 5",
+    "period": "Anual",
+    "course": [
+      [
+        "I0012",
+        "a"
+      ],
+      [
+        "I0013",
+        "a"
+      ],
+      [
+        "I0017",
+        "a"
+      ],
+      [
+        "I0018",
+        "r"
+      ],
+      [
+        "I0019",
+        "r"
+      ],
+      [
+        "I0031",
+        "r"
+      ],
+      [
+        "I0035",
+        "a"
+      ]
+    ],
+    "approval": [
+      [
+        "I0035",
+        "a"
+      ],
+      [
+        "I0012",
+        "a"
+      ],
+      [
+        "I0013",
+        "a"
+      ],
+      [
+        "I0017",
+        "a"
+      ],
+      [
+        "I0018",
+        "r"
+      ],
+      [
+        "I0019",
+        "r"
+      ],
+      [
+        "I0031",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 5,
+    "code": "I0022",
+    "name": "Tecnología de Diseño Industrial 5",
+    "period": "Anual",
+    "course": [
+      [
+        "I0009",
+        "a"
+      ],
+      [
+        "I0011",
+        "a"
+      ],
+      [
+        "I0012",
+        "a"
+      ],
+      [
+        "I0016",
+        "r"
+      ],
+      [
+        "I0018",
+        "r"
+      ]
+    ],
+    "approval": [
+      [
+        "I0009",
+        "a"
+      ],
+      [
+        "I0011",
+        "a"
+      ],
+      [
+        "I0012",
+        "a"
+      ],
+      [
+        "I0016",
+        "r"
+      ],
+      [
+        "I0018",
+        "r"
+      ]
+    ]
+  },
+  {
+    "year": 5,
+    "code": "I0034",
+    "name": "Gestión de Diseño",
+    "period": "Anual",
+    "course": [
+      [
+        "I0035",
+        "a"
+      ],
+      [
+        "I0031",
+        "r"
+      ],
+      [
+        "I0019",
+        "r"
+      ],
+      [
+        "I0027",
+        "a"
+      ]
+    ],
+    "approval": [
+      [
+        "I0019",
+        "r"
+      ],
+      [
+        "I0027",
+        "a"
+      ],
+      [
+        "I0031",
+        "r"
+      ],
+      [
+        "I0035",
+        "a"
+      ]
+    ]
+  },
+  {
+    "year": 5,
+    "code": "I0032",
+    "name": "Seminario Optativo 3",
+    "period": "Cuatrimestral",
+    "course": [
+      [
+        "I0020",
+        "a"
+      ]
+    ],
+    "approval": [
+      [
+        "I0020",
+        "a"
+      ]
+    ]
+  },
+  {
+    "year": 5,
+    "code": "I0033",
+    "name": "Seminario Optativo 4",
+    "period": "Cuatrimestral",
+    "course": [
+      [
+        "I0020",
+        "a"
+      ]
+    ],
+    "approval": [
+      [
+        "I0020",
+        "a"
+      ]
+    ]
+  }
+]
